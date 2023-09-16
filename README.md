@@ -3,7 +3,7 @@
 🌍 Exploring World Population Data with Python! 📊
 
 I recently embarked on a fascinating journey to analyze world population data using Python. Here's a sneak peek into the steps I took:
-
+ 
 1️⃣ **Importing the Data**: First, I gathered the world population data from a reliable source. Data quality is essential for meaningful analysis!
 
 2️⃣ **Structure of Data**: Understanding your data is key. I displayed the structure of the dataset to get a clear picture of what I was working with.
